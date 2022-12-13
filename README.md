@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabian
-- 👀 I’m interested in Automation, Python and JS
-- 🌱 I’m currently learning CS
+- 👀 I’m interested in Python and JS
+- 🌱 I’m currently studying CS
 - 💞️ I’m looking to collaborate on anything actually
 - 📫 Send me a message on linkedIn
 
