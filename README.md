@@ -1,11 +1,10 @@
 👋 Hi, I’m Fabian
 
+👀 interested in Python and JS
 
-👀 I’m interested in Python and JS
+🌱 currently studying CS (part-time)
 
-🌱 I’m currently studying CS
-
-💞️ I’m looking to collaborate on anything actually
+💞️ looking to collaborate on anything actually
 
 📫 Send me a message on linkedIn
 <!---
