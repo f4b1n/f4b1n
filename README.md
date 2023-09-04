@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Fabian
-- 👀 I’m interested in Python and JS
-- 🌱 I’m currently studying CS
-- 💞️ I’m looking to collaborate on anything actually
-- 📫 Send me a message on linkedIn
+👋 Hi, I’m Fabian
+👀 I’m interested in Python and JS
+🌱 I’m currently studying CS
+💞️ I’m looking to collaborate on anything actually
+📫 Send me a message on linkedIn
 
 <!---
 f4b1n/f4b1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
